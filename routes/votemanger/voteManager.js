@@ -4,7 +4,7 @@ const voteManager = require('../../src/controller/votemanager/voteManagerControl
 
 
 /**
- * 修改用户信息
+ * 登出
  * @param  {[type]}   req  [description]
  * @param  {[type]}   res  [description]
  * @return {[type]}        [description]
